@@ -1,0 +1,1 @@
+Gerador de senhas simples e feito usando poucas linhas de código.
